@@ -1,13 +1,12 @@
 # Projeto PI 07
-## _The Last Markdown Editor, Ever_
 
-Repositório oficial do projeto integrador do grupo 07, da turma de Analise e Desenvolvimento de Sistemas.
+Repositório oficial do projeto integrador do grupo 07, da turma de Analise e Desenvolvimento de Sistemas SENAC.
 ___
 Nosso prototipo consiste em um sistema para adminstração de dados de uma universidade.
 
 ## Aqui estão os protótipos
 ![](https://github.com/arielmlima/senac/blob/main/imagens/figma%20prototipo%20unisenac.png?raw=true)
-
+![](https://github.com/arielmlima/senac/blob/main/imagens/tablet%20format.png?raw=true)
 # Documentação
 ![](https://github.com/arielmlima/senac/blob/main/imagens/diagrama%20de%20classes.png?raw=true)
 ![](https://github.com/arielmlima/senac/blob/main/imagens/casos%20de%20uso%20cenario.png?raw=true)
