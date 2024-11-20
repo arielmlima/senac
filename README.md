@@ -1,5 +1,4 @@
 # Projeto PI 07
-## _The Last Markdown Editor, Ever_
 
 Repositório oficial do projeto integrador do grupo 07, da turma de Analise e Desenvolvimento de Sistemas SENAC.
 ___
