@@ -7,7 +7,7 @@ Nosso prototipo consiste em um sistema para adminstração de dados de uma unive
 ## Aqui estão os protótipos
 ![](https://github.com/arielmlima/senac/blob/main/imagens/figma%20prototipo%20unisenac.png?raw=true)
 ![](https://github.com/arielmlima/senac/blob/main/imagens/tablet%20format.png?raw=true)
-# Documentação
+# UML | CENÁRIOS | CASOS DE USO
 ![](https://github.com/arielmlima/senac/blob/main/imagens/diagrama%20de%20classes.png?raw=true)
 ![](https://github.com/arielmlima/senac/blob/main/imagens/casos%20de%20uso%20cenario.png?raw=true)
 ![](https://raw.githubusercontent.com/arielmlima/senac/refs/heads/main/imagens/casos%20de%20uso.jfif)
