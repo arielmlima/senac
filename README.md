@@ -12,6 +12,10 @@ Nosso prototipo consiste em um sistema para adminstração de dados de uma unive
 ![](https://github.com/arielmlima/senac/blob/main/imagens/casos%20de%20uso%20cenario.png?raw=true)
 ![](https://raw.githubusercontent.com/arielmlima/senac/refs/heads/main/imagens/casos%20de%20uso.jfif)
 
+# Link Visualização GitHub Pages (HTML, CSS)
+
+https://arielmlima.github.io/senac/ 
+
 # Link Figma 
 
 https://www.figma.com/proto/IUclQUrfepewhIpG8GAgQl/PROTOTIPO-SENAC?node-id=1-2&node-type=canvas&t=AkzwLauzBVZ66ycJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
